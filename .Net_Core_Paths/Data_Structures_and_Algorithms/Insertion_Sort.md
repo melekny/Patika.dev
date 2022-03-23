@@ -2,7 +2,7 @@ Insertion Sort Example
 
 [22,27,16,2,18,6] 
 
-1) Applying the Insertion Sort Algorithm to the given array.
+1.Applying the Insertion Sort Algorithm to the given array.
 
 (i=0) 22,27,16,2,18,6 --> 22 is stored and 27 started to compare with first element. So, 27 is greater than first.
 
@@ -18,9 +18,9 @@ Insertion Sort Example
 
 Sorted Array --> [2, 6, 16, 18, 22, 27]
 
-2) Big-O Notation: O(n^2)
+2.Big-O Notation: O(n^2)
 
-3) Time Complexity: Average Case: O(n^2)
+3.Time Complexity: Average Case: O(n^2)
 
-4) The number 18, is included in the Average Case after the array is sorted.
+4.The number 18, is included in the Average Case after the array is sorted.
 
